@@ -16,11 +16,22 @@ Here are some ideas to get you started:
 <h2 align="left">Hello everyone! 👋, I'm David</h2>
 
 ---
-Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. 
-However, ever since I was a child, I've also been drawn to the realm of coding and technology. 
-My transition journey into development was enriched by my experience at Le Wagon coding bootcamp in Paris. 
+💬 Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world.  
+However, ever since I was a child, I've also been drawn to the realm of coding and technology.  
+My transition journey into development was enriched by my experience at Le Wagon coding bootcamp in Paris.   
 
-:student: I love to learn ! I'm committed to acquiring new skills, languages and technologies to enrich my journey as a developer. 
+:student: I love to learn ! I'm committed to acquiring new skills, languages and technologies to enrich my journey as a developer.  
+I'm focusing now into __Javascript__ and __React.js__
+
+---
+### :man_technologist: Projects
+<strong>My projects:</strong> <br>
+<a href="https://github.com/konis1/rails-canopee">Canopée </a> <br>
+A Progressive Web App that matches you with a plant according to your experience with nature and your free time. Tasks are sent to you depending on the weather and on the plant needs.
+
+<strong>Currently working on:</strong> <br>
+Personnal project : A Doodle like to facilitates organizing events with your buddies. 
+Coding the back in RoR and the front in React.
 
 
 <h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer</h3>
