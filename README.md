@@ -35,6 +35,9 @@ Coding the back in RoR and the front in React.
 
 
 <h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer</h3>
+---
+Status : 
+<h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer</h3>
 
 ---
 ### :hammer_and_wrench: Stack:
