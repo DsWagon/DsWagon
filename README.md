@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,6 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hello everyone! 👋, I'm David</h1>
+
+I'm excited to introduce my journey and passions through my GitHub profile. Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. However, ever since I was a child, I've also been drawn to the realm of coding and technology.
+
+Today, I'm actively seeking an opportunity as a Junior Developer.
+<h3 align="center">Today, I'm actively seeking an opportunity as a Junior Developer.r</h3>
+
+Feel free to explore my GitHub projects to get a glimpse of my skills in action. I'm open to collaboration, advice, and opportunities that will allow me to continue growing as a developer.
+
+Thank you for taking the time to explore my GitHub profile. I look forward to seeing where this new adventure in the world of development will take me!
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DsWagon&theme=dark&background=000000)](https://git.io/streak-stats)
