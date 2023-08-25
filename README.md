@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="left">Hello everyone! 👋, I'm David</h2>
-
 ---
 ### :point_right: About Me :  
 Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world.  
