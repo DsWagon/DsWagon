@@ -25,8 +25,8 @@ This transition journey into development started by my experience at Le Wagon co
 
 ---
 ### :man_technologist: Projects :
-* <a href="https://github.com/konis1/rails-canopee">Canopée </a> <br>
-A Progressive Web App that matches you with a plant according to your experience with nature and your free time. Tasks are sent to you depending on the weather and on the plant needs.
+* <a href="https://www.cointravaux.site/">Cointravaux </a> <br>  
+A Web App that matches you with a contractor according to your needs before buying a condominium, helping you estimate renovation budgets.
 
 ---
 ### :man_technologist: Currently working on :
