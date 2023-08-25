@@ -18,15 +18,9 @@ Here are some ideas to get you started:
 :point_right: Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. 
 However, ever since I was a child, I've also been drawn to the realm of coding and technology. and i have just finished a bootcamp @ LeWagon in Paris.
 
-### :student: Currently trying to learn
+
 :student: I love to learn ! I'm committed to acquiring new skills, languages and technologies to enrich my journey as a developer.
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  </div>
+
 
 <h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer.r</h3>
 
