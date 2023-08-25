@@ -29,18 +29,18 @@ This transition journey into development started by my experience at Le Wagon co
 A Web App that matches you with a contractor according to your needs before buying a condominium, helping you estimate renovation budgets.
 
 ---
-### :man_technologist: Currently working on :
+### :construction: Currently working on :
 * Finishing our group project CoinTravaux
 * A Web App on matching movies
 * A Web App for helping coowner to manage a building
 
 ---
-### :man_technologist: Currently studying on :
+### :books: Currently studying on :
 * Javascript vanilla
 * React.js
 
 ---
-### :man_technologist: Status :
+### :whale: Status :
 <h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer</h3>
 
 ---
