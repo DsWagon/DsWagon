@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4 align="left">Hello everyone! 👋, I'm David</h1>
+<h3 align="left">Hello everyone! 👋, I'm David</h1>
+---
 
 I'm excited to introduce my journey and passions through my GitHub profile. Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. However, ever since I was a child, I've also been drawn to the realm of coding and technology.
 
-<h4 align="center">Today, I'm actively seeking an opportunity as a Junior Developer.r</h3>
+🌱 I'm committed to acquiring new skills, and I am determined to continue learning new languages and technologies to enrich my journey as a developer.
+<h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer.r</h3>
 
-Feel free to explore my GitHub projects to get a glimpse of my skills in action. I'm open to collaboration, advice, and opportunities that will allow me to continue growing as a developer.
+
+😄 Feel free to explore my GitHub projects to get a glimpse of my skills in action. I'm open to collaboration, advice, and opportunities that will allow me to continue growing as a developer.
 
 Thank you for taking the time to explore my GitHub profile. I look forward to seeing where this new adventure in the world of development will take me!
 
