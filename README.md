@@ -38,16 +38,10 @@ Having taught history and geography for many years, I developed a deep love for 
 </div>
 
 ---
-
-😄 Feel free to explore my GitHub projects to get a glimpse of my skills in action. I'm open to collaboration, advice, and opportunities that will allow me to continue growing as a developer.
-
-
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DsWagon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dswagon&label=Profile%20views&color=0e75b6&style=flat" alt="dswagon" /> </p>
 
