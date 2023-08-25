@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Hello everyone! 👋, I'm David</h1>
 ---
-<p :point_right: Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. 
-However, ever since I was a child, I've also been drawn to the realm of coding and technology. I have just finished a bootcamp @ LeWagon in Paris. </p>    
+- :point_right: Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. 
+However, ever since I was a child, I've also been drawn to the realm of coding and technology. I have just finished a bootcamp @ LeWagon in Paris.    
 
-<p :student: I love to learn ! I'm committed to acquiring new skills, languages and technologies to enrich my journey as a developer. </p>
+:student: I love to learn ! I'm committed to acquiring new skills, languages and technologies to enrich my journey as a developer. 
 
 
 <h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer</h3>
