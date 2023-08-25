@@ -26,18 +26,16 @@ I'm focusing now into __Javascript__ and __React.js__
 
 ---
 ### :man_technologist: Projects
-<strong>My projects:</strong> <br>
 <a href="https://github.com/konis1/rails-canopee">Canopée </a> <br>
 A Progressive Web App that matches you with a plant according to your experience with nature and your free time. Tasks are sent to you depending on the weather and on the plant needs.
 
-<strong>Currently working on:</strong> <br>
+---
+### :man_technologist: Currently working on
 Personnal project : A Doodle like to facilitates organizing events with your buddies. 
 Coding the back in RoR and the front in React.
 
-
-<h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer</h3>
 ---
-Status : 
+### :man_technologist: Status
 <h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer</h3>
 
 ---
