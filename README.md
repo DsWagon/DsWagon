@@ -25,8 +25,9 @@ This transition journey into development started by my experience at Le Wagon co
 
 ---
 ### :man_technologist: Projects :
-* website : <a href="https://www.cointravaux.site/">Cointravaux </a> <br> <a href="https://github.com/Boubouboubs/coin_travaux/">Github repo </a> <br>  
+* Cointravaux
 A Web App that matches you with a contractor according to your needs before buying a condominium, helping you estimate renovation budgets.
+Website : <a href="https://www.cointravaux.site/">Cointravaux </a> <br> , <a href="https://github.com/Boubouboubs/coin_travaux/">Github repo </a> <br>  
 
 ---
 ### :construction: Currently working on :
