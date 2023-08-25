@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Hello everyone! 👋, I'm David</h1>
+
 ---
 Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. 
 However, ever since I was a child, I've also been drawn to the realm of coding and technology. I have just finished a bootcamp @ LeWagon in Paris.    
