@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 ### Hi there 👋
 **DsWagon/DsWagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4 align="right">Hello everyone! 👋, I'm David</h1>
+<h4 align="left">Hello everyone! 👋, I'm David</h1>
 
 I'm excited to introduce my journey and passions through my GitHub profile. Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. However, ever since I was a child, I've also been drawn to the realm of coding and technology.
 
