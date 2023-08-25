@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Hello everyone! 👋, I'm David</h1>
 ---
-### :point_right: About me:
-- Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. 
-- However, ever since I was a child, I've also been drawn to the realm of coding and technology. and i have just finished a bootcamp @ LeWagon in Paris.
+:point_right: Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. 
+However, ever since I was a child, I've also been drawn to the realm of coding and technology. and i have just finished a bootcamp @ LeWagon in Paris.
 
 ### :student: Currently trying to learn
 :student: I love to learn ! I'm committed to acquiring new skills, languages and technologies to enrich my journey as a developer.
