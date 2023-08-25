@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Hello everyone! 👋, I'm David</h1>
+<h2 align="left">Hello everyone! 👋, I'm David</h2>
 
 ---
 Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world. 
-However, ever since I was a child, I've also been drawn to the realm of coding and technology. I have just finished a bootcamp @ LeWagon in Paris.    
+However, ever since I was a child, I've also been drawn to the realm of coding and technology. 
+My transition journey into development was enriched by my experience at Le Wagon coding bootcamp in Paris. 
 
 :student: I love to learn ! I'm committed to acquiring new skills, languages and technologies to enrich my journey as a developer. 
 
