@@ -41,7 +41,7 @@ A Web App that matches you with a contractor according to your needs before buyi
 
 ---
 ### :whale: Status :
-<h3 align="left"> 🔭 Today, I'm actively seeking an opportunity as a Junior Developer</h3>
+<h3 align="left"> Today, I'm actively seeking an opportunity as a Junior Developer</h3>
 
 ---
 ### :hammer_and_wrench: Stack:
