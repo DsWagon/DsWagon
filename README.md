@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h2 align="left">Hello everyone! 👋, I'm David</h2>
 
 ---
-💬 Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world.  
+### :point_right: About Me:  
+Having taught history and geography for many years, I developed a deep love for understanding past events and their impact on our modern world.  
 However, ever since I was a child, I've also been drawn to the realm of coding and technology.  
 My transition journey into development was enriched by my experience at Le Wagon coding bootcamp in Paris.   
 
